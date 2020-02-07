@@ -1,7 +1,7 @@
 class Person
   
   def initialize(attributes)
-    attributes.each
+    attributes.each{ ||
   end 
   
   
